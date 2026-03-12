@@ -12,3 +12,6 @@ result = numbers[0]
 # Subtract the remaining numbers
 for i in range(1, 10):
     result = result - numbers[i]
+
+    # Display the final result
+print("The result of the first number minus the remaining numbers is:", result)

@@ -7,3 +7,9 @@ if num2 != 0:
 
     # Calculate the remainder
     remainder = num1 % num2
+
+# Display the remainder
+    print("The remainder when", num1, "is divided by", num2, "is:", remainder)
+
+else:
+    print("Cannot divide by zero.")

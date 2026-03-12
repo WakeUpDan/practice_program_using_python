@@ -9,3 +9,9 @@ if num2 != 0:
 
     # Calculate the quotient using floor division
     quotient = num1 // num2
+
+# Display the result
+    print("The quotient without decimal is:", quotient)
+
+else:
+    print("Division by zero is not allowed.")
